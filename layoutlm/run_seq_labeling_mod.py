@@ -386,7 +386,7 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""
         "f1": f1_score(out_label_list, preds_list),
     }
 
-    if mode != 'test:
+    if mode != 'test':
         report = classification_report(out_label_list, preds_list)
         logger.info("\n" + report)
 
