@@ -1,0 +1,2419 @@
+{
+    "form": [
+        {
+            "id": 1,
+            "text": "Wystawiono: Poznań, dnia:",
+            "box": [
+                115,
+                224,
+                468,
+                258
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wystawiono",
+                    "box": [
+                        115,
+                        224,
+                        268,
+                        258
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        268,
+                        224,
+                        284,
+                        258
+                    ]
+                },
+                {
+                    "text": "Poznań,",
+                    "box": [
+                        284,
+                        224,
+                        391,
+                        258
+                    ]
+                },
+                {
+                    "text": "dnia",
+                    "box": [
+                        391,
+                        224,
+                        453,
+                        258
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        453,
+                        224,
+                        468,
+                        258
+                    ]
+                }
+            ],
+            "line_index": 0,
+            "word_index": 0
+        },
+        {
+            "id": 2,
+            "text": "15.06.2020",
+            "box": [
+                468,
+                224,
+                604,
+                258
+            ],
+            "label": "DATE_CREATION",
+            "words": [
+                {
+                    "text": "15.06.2020",
+                    "box": [
+                        468,
+                        224,
+                        604,
+                        258
+                    ]
+                }
+            ],
+            "line_index": 0,
+            "word_index": 1
+        },
+        {
+            "id": 3,
+            "text": "Data wykonania usługi:",
+            "box": [
+                1100,
+                224,
+                1406,
+                258
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Data",
+                    "box": [
+                        1100,
+                        224,
+                        1161,
+                        258
+                    ]
+                },
+                {
+                    "text": "wykonania",
+                    "box": [
+                        1161,
+                        224,
+                        1299,
+                        258
+                    ]
+                },
+                {
+                    "text": "usługi",
+                    "box": [
+                        1299,
+                        224,
+                        1391,
+                        258
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        1391,
+                        224,
+                        1406,
+                        258
+                    ]
+                }
+            ],
+            "line_index": 0,
+            "word_index": 2
+        },
+        {
+            "id": 4,
+            "text": "08.04.2020",
+            "box": [
+                1406,
+                224,
+                1539,
+                258
+            ],
+            "label": "DATE_SALE",
+            "words": [
+                {
+                    "text": "08.04.2020",
+                    "box": [
+                        1406,
+                        224,
+                        1539,
+                        258
+                    ]
+                }
+            ],
+            "line_index": 0,
+            "word_index": 3
+        },
+        {
+            "id": 5,
+            "text": "FAKTURA VAT nr",
+            "box": [
+                560,
+                295,
+                880,
+                340
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "FAKTURA",
+                    "box": [
+                        560,
+                        295,
+                        747,
+                        340
+                    ]
+                },
+                {
+                    "text": "VAT",
+                    "box": [
+                        747,
+                        295,
+                        827,
+                        340
+                    ]
+                },
+                {
+                    "text": "nr",
+                    "box": [
+                        827,
+                        295,
+                        880,
+                        340
+                    ]
+                }
+            ],
+            "line_index": 1,
+            "word_index": 0
+        },
+        {
+            "id": 6,
+            "text": "11/FA/2020",
+            "box": [
+                880,
+                295,
+                1094,
+                340
+            ],
+            "label": "DOC_NR",
+            "words": [
+                {
+                    "text": "11/FA/2020",
+                    "box": [
+                        880,
+                        295,
+                        1094,
+                        340
+                    ]
+                }
+            ],
+            "line_index": 1,
+            "word_index": 1
+        },
+        {
+            "id": 7,
+            "text": "PRZYKŁADOWA !",
+            "box": [
+                684,
+                344,
+                937,
+                378
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "PRZYKŁADOWA",
+                    "box": [
+                        684,
+                        344,
+                        916,
+                        378
+                    ]
+                },
+                {
+                    "text": "!",
+                    "box": [
+                        916,
+                        344,
+                        937,
+                        378
+                    ]
+                }
+            ],
+            "line_index": 2,
+            "word_index": 0
+        },
+        {
+            "id": 8,
+            "text": "Sprzedawca:",
+            "box": [
+                115,
+                443,
+                282,
+                477
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sprzedawca",
+                    "box": [
+                        115,
+                        443,
+                        267,
+                        477
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        267,
+                        443,
+                        282,
+                        477
+                    ]
+                }
+            ],
+            "line_index": 3,
+            "word_index": 0
+        },
+        {
+            "id": 10,
+            "text": "Nabywca:",
+            "box": [
+                824,
+                443,
+                953,
+                477
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nabywca",
+                    "box": [
+                        824,
+                        443,
+                        937,
+                        477
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        937,
+                        443,
+                        953,
+                        477
+                    ]
+                }
+            ],
+            "line_index": 3,
+            "word_index": 1
+        },
+        {
+            "id": 9,
+            "text": "FIRMA Sp. z o.o.",
+            "box": [
+                115,
+                477,
+                331,
+                511
+            ],
+            "label": "NAME_SELLER",
+            "words": [
+                {
+                    "text": "FIRMA",
+                    "box": [
+                        115,
+                        477,
+                        198,
+                        511
+                    ]
+                },
+                {
+                    "text": "Sp.",
+                    "box": [
+                        198,
+                        477,
+                        248,
+                        511
+                    ]
+                },
+                {
+                    "text": "z",
+                    "box": [
+                        248,
+                        477,
+                        265,
+                        511
+                    ]
+                },
+                {
+                    "text": "o.o.",
+                    "box": [
+                        265,
+                        477,
+                        331,
+                        511
+                    ]
+                }
+            ],
+            "line_index": 4,
+            "word_index": 0
+        },
+        {
+            "id": 11,
+            "text": "FIRMA 1",
+            "box": [
+                824,
+                477,
+                938,
+                511
+            ],
+            "label": "NAME_CONTRACTOR",
+            "words": [
+                {
+                    "text": "FIRMA",
+                    "box": [
+                        824,
+                        477,
+                        919,
+                        511
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        919,
+                        477,
+                        938,
+                        511
+                    ]
+                }
+            ],
+            "line_index": 4,
+            "word_index": 1
+        },
+        {
+            "id": 12,
+            "text": "Testowa 25",
+            "box": [
+                115,
+                575,
+                262,
+                609
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Testowa",
+                    "box": [
+                        115,
+                        575,
+                        229,
+                        609
+                    ]
+                },
+                {
+                    "text": "25",
+                    "box": [
+                        229,
+                        575,
+                        262,
+                        609
+                    ]
+                }
+            ],
+            "line_index": 5,
+            "word_index": 0
+        },
+        {
+            "id": 22,
+            "text": "Testowa 65/1",
+            "box": [
+                824,
+                575,
+                994,
+                609
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Testowa",
+                    "box": [
+                        824,
+                        575,
+                        932,
+                        609
+                    ]
+                },
+                {
+                    "text": "65/1",
+                    "box": [
+                        932,
+                        575,
+                        994,
+                        609
+                    ]
+                }
+            ],
+            "line_index": 5,
+            "word_index": 1
+        },
+        {
+            "id": 13,
+            "text": "60-498 Poznań",
+            "box": [
+                115,
+                609,
+                310,
+                643
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "60-498",
+                    "box": [
+                        115,
+                        609,
+                        212,
+                        643
+                    ]
+                },
+                {
+                    "text": "Poznań",
+                    "box": [
+                        212,
+                        609,
+                        310,
+                        643
+                    ]
+                }
+            ],
+            "line_index": 6,
+            "word_index": 0
+        },
+        {
+            "id": 23,
+            "text": "60-666 Poznań",
+            "box": [
+                824,
+                609,
+                1019,
+                643
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "60-666",
+                    "box": [
+                        824,
+                        609,
+                        922,
+                        643
+                    ]
+                },
+                {
+                    "text": "Poznań",
+                    "box": [
+                        922,
+                        609,
+                        1019,
+                        643
+                    ]
+                }
+            ],
+            "line_index": 6,
+            "word_index": 1
+        },
+        {
+            "id": 14,
+            "text": "NIP:",
+            "box": [
+                117,
+                645,
+                188,
+                682
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "NIP",
+                    "box": [
+                        117,
+                        645,
+                        170,
+                        682
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        170,
+                        645,
+                        188,
+                        682
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 0
+        },
+        {
+            "id": 15,
+            "text": "111-222-33-44",
+            "box": [
+                188,
+                645,
+                373,
+                682
+            ],
+            "label": "VAT_ID_SELLER",
+            "words": [
+                {
+                    "text": "111-222-33-44",
+                    "box": [
+                        188,
+                        645,
+                        373,
+                        682
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 1
+        },
+        {
+            "id": 16,
+            "text": "Regon:",
+            "box": [
+                373,
+                645,
+                472,
+                682
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Regon",
+                    "box": [
+                        373,
+                        645,
+                        456,
+                        682
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        456,
+                        645,
+                        472,
+                        682
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 2
+        },
+        {
+            "id": 17,
+            "text": "1234567",
+            "box": [
+                472,
+                645,
+                572,
+                682
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1234567",
+                    "box": [
+                        472,
+                        645,
+                        572,
+                        682
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 3
+        },
+        {
+            "id": 64,
+            "text": "NIP:",
+            "box": [
+                822,
+                645,
+                891,
+                675
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "NIP",
+                    "box": [
+                        822,
+                        645,
+                        874,
+                        675
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        874,
+                        645,
+                        891,
+                        675
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 4
+        },
+        {
+            "id": 65,
+            "text": "999-88-77-66",
+            "box": [
+                891,
+                645,
+                1058,
+                675
+            ],
+            "label": "VAT_ID_CONTRACTOR",
+            "words": [
+                {
+                    "text": "999-88-77-66",
+                    "box": [
+                        891,
+                        645,
+                        1058,
+                        675
+                    ]
+                }
+            ],
+            "line_index": 7,
+            "word_index": 5
+        },
+        {
+            "id": 18,
+            "text": "Konto bankowe: ZZZ Bank Polski S.A.",
+            "box": [
+                115,
+                678,
+                607,
+                715
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Konto",
+                    "box": [
+                        115,
+                        678,
+                        197,
+                        715
+                    ]
+                },
+                {
+                    "text": "bankowe",
+                    "box": [
+                        197,
+                        678,
+                        312,
+                        715
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        312,
+                        678,
+                        328,
+                        715
+                    ]
+                },
+                {
+                    "text": "ZZZ",
+                    "box": [
+                        328,
+                        678,
+                        377,
+                        715
+                    ]
+                },
+                {
+                    "text": "Bank",
+                    "box": [
+                        377,
+                        678,
+                        443,
+                        715
+                    ]
+                },
+                {
+                    "text": "Polski",
+                    "box": [
+                        443,
+                        678,
+                        541,
+                        715
+                    ]
+                },
+                {
+                    "text": "S.A.",
+                    "box": [
+                        541,
+                        678,
+                        607,
+                        715
+                    ]
+                }
+            ],
+            "line_index": 8,
+            "word_index": 0
+        },
+        {
+            "id": 19,
+            "text": "99 1111 2222",
+            "box": [
+                607,
+                678,
+                771,
+                715
+            ],
+            "label": "PAYMENT_BANK_NR",
+            "words": [
+                {
+                    "text": "99",
+                    "box": [
+                        607,
+                        678,
+                        640,
+                        715
+                    ]
+                },
+                {
+                    "text": "1111",
+                    "box": [
+                        640,
+                        678,
+                        705,
+                        715
+                    ]
+                },
+                {
+                    "text": "2222",
+                    "box": [
+                        705,
+                        678,
+                        771,
+                        715
+                    ]
+                }
+            ],
+            "line_index": 8,
+            "word_index": 1
+        },
+        {
+            "id": 20,
+            "text": "Kod nabywcy: 666",
+            "box": [
+                824,
+                678,
+                1058,
+                712
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Kod",
+                    "box": [
+                        824,
+                        678,
+                        874,
+                        712
+                    ]
+                },
+                {
+                    "text": "nabywcy",
+                    "box": [
+                        874,
+                        678,
+                        991,
+                        712
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        991,
+                        678,
+                        1008,
+                        712
+                    ]
+                },
+                {
+                    "text": "666",
+                    "box": [
+                        1008,
+                        678,
+                        1058,
+                        712
+                    ]
+                }
+            ],
+            "line_index": 8,
+            "word_index": 2
+        },
+        {
+            "id": 21,
+            "text": "1334 5555 7777 6666",
+            "box": [
+                115,
+                709,
+                392,
+                746
+            ],
+            "label": "PAYMENT_BANK_NR",
+            "words": [
+                {
+                    "text": "1334",
+                    "box": [
+                        115,
+                        709,
+                        184,
+                        746
+                    ]
+                },
+                {
+                    "text": "5555",
+                    "box": [
+                        184,
+                        709,
+                        254,
+                        746
+                    ]
+                },
+                {
+                    "text": "7777",
+                    "box": [
+                        254,
+                        709,
+                        323,
+                        746
+                    ]
+                },
+                {
+                    "text": "6666",
+                    "box": [
+                        323,
+                        709,
+                        392,
+                        746
+                    ]
+                }
+            ],
+            "line_index": 9,
+            "word_index": 0
+        },
+        {
+            "id": 24,
+            "text": "Sposób zapłaty:",
+            "box": [
+                115,
+                812,
+                331,
+                845
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sposób",
+                    "box": [
+                        115,
+                        812,
+                        208,
+                        845
+                    ]
+                },
+                {
+                    "text": "zapłaty",
+                    "box": [
+                        208,
+                        812,
+                        316,
+                        845
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        316,
+                        812,
+                        331,
+                        845
+                    ]
+                }
+            ],
+            "line_index": 10,
+            "word_index": 0
+        },
+        {
+            "id": 25,
+            "text": "Przelew",
+            "box": [
+                331,
+                812,
+                426,
+                845
+            ],
+            "label": "PAYMENT_METHOD",
+            "words": [
+                {
+                    "text": "Przelew",
+                    "box": [
+                        331,
+                        812,
+                        426,
+                        845
+                    ]
+                }
+            ],
+            "line_index": 10,
+            "word_index": 1
+        },
+        {
+            "id": 33,
+            "text": "Termin płatności:",
+            "box": [
+                824,
+                812,
+                1057,
+                845
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Termin",
+                    "box": [
+                        824,
+                        812,
+                        911,
+                        845
+                    ]
+                },
+                {
+                    "text": "płatności",
+                    "box": [
+                        911,
+                        812,
+                        1042,
+                        845
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        1042,
+                        812,
+                        1057,
+                        845
+                    ]
+                }
+            ],
+            "line_index": 10,
+            "word_index": 2
+        },
+        {
+            "id": 34,
+            "text": "12.04.2020",
+            "box": [
+                1057,
+                812,
+                1186,
+                845
+            ],
+            "label": "DATE_PAYMENT",
+            "words": [
+                {
+                    "text": "12.04.2020",
+                    "box": [
+                        1057,
+                        812,
+                        1186,
+                        845
+                    ]
+                }
+            ],
+            "line_index": 10,
+            "word_index": 3
+        },
+        {
+            "id": 27,
+            "text": "Lp",
+            "box": [
+                123,
+                845,
+                153,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Lp",
+                    "box": [
+                        123,
+                        845,
+                        153,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 0
+        },
+        {
+            "id": 26,
+            "text": "Nazwa towaru/usługi",
+            "box": [
+                210,
+                845,
+                420,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nazwa",
+                    "box": [
+                        210,
+                        845,
+                        268,
+                        873
+                    ]
+                },
+                {
+                    "text": "towaru/usługi",
+                    "box": [
+                        268,
+                        845,
+                        420,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 1
+        },
+        {
+            "id": 28,
+            "text": "PKWiU",
+            "box": [
+                493,
+                845,
+                571,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "PKWiU",
+                    "box": [
+                        493,
+                        845,
+                        571,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 2
+        },
+        {
+            "id": 29,
+            "text": "Ilość",
+            "box": [
+                624,
+                845,
+                676,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Ilość",
+                    "box": [
+                        624,
+                        845,
+                        676,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 3
+        },
+        {
+            "id": 30,
+            "text": "J.M. Cena jed. netto Rabat",
+            "box": [
+                712,
+                845,
+                994,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "J.M.",
+                    "box": [
+                        712,
+                        845,
+                        763,
+                        873
+                    ]
+                },
+                {
+                    "text": "Cena",
+                    "box": [
+                        763,
+                        845,
+                        815,
+                        873
+                    ]
+                },
+                {
+                    "text": "jed.",
+                    "box": [
+                        815,
+                        845,
+                        866,
+                        873
+                    ]
+                },
+                {
+                    "text": "netto",
+                    "box": [
+                        866,
+                        845,
+                        930,
+                        873
+                    ]
+                },
+                {
+                    "text": "Rabat",
+                    "box": [
+                        930,
+                        845,
+                        994,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 4
+        },
+        {
+            "id": 31,
+            "text": "VAT Wartość Netto",
+            "box": [
+                1005,
+                845,
+                1207,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        1005,
+                        845,
+                        1045,
+                        873
+                    ]
+                },
+                {
+                    "text": "Wartość",
+                    "box": [
+                        1045,
+                        845,
+                        1140,
+                        873
+                    ]
+                },
+                {
+                    "text": "Netto",
+                    "box": [
+                        1140,
+                        845,
+                        1207,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 5
+        },
+        {
+            "id": 32,
+            "text": "Kwota VAT Wartość Brutto",
+            "box": [
+                1235,
+                845,
+                1525,
+                873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Kwota",
+                    "box": [
+                        1235,
+                        845,
+                        1304,
+                        873
+                    ]
+                },
+                {
+                    "text": "VAT",
+                    "box": [
+                        1304,
+                        845,
+                        1345,
+                        873
+                    ]
+                },
+                {
+                    "text": "Wartość",
+                    "box": [
+                        1345,
+                        845,
+                        1442,
+                        873
+                    ]
+                },
+                {
+                    "text": "Brutto",
+                    "box": [
+                        1442,
+                        845,
+                        1525,
+                        873
+                    ]
+                }
+            ],
+            "line_index": 11,
+            "word_index": 6
+        },
+        {
+            "id": 35,
+            "text": "%",
+            "box": [
+                948,
+                870,
+                974,
+                898
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "%",
+                    "box": [
+                        948,
+                        870,
+                        974,
+                        898
+                    ]
+                }
+            ],
+            "line_index": 12,
+            "word_index": 0
+        },
+        {
+            "id": 36,
+            "text": "1 Usługi programistyczne",
+            "box": [
+                115,
+                907,
+                391,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        115,
+                        907,
+                        128,
+                        935
+                    ]
+                },
+                {
+                    "text": "Usługi",
+                    "box": [
+                        128,
+                        907,
+                        203,
+                        935
+                    ]
+                },
+                {
+                    "text": "programistyczne",
+                    "box": [
+                        203,
+                        907,
+                        391,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 0
+        },
+        {
+            "id": 37,
+            "text": "1,00 szt.",
+            "box": [
+                662,
+                907,
+                767,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,00",
+                    "box": [
+                        662,
+                        907,
+                        714,
+                        935
+                    ]
+                },
+                {
+                    "text": "szt.",
+                    "box": [
+                        714,
+                        907,
+                        767,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 1
+        },
+        {
+            "id": 38,
+            "text": "500,00",
+            "box": [
+                850,
+                907,
+                924,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "500,00",
+                    "box": [
+                        850,
+                        907,
+                        924,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 2
+        },
+        {
+            "id": 39,
+            "text": "--- 23%",
+            "box": [
+                975,
+                907,
+                1058,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "---",
+                    "box": [
+                        975,
+                        907,
+                        1016,
+                        935
+                    ]
+                },
+                {
+                    "text": "23%",
+                    "box": [
+                        1016,
+                        907,
+                        1058,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 3
+        },
+        {
+            "id": 40,
+            "text": "500,00",
+            "box": [
+                1142,
+                907,
+                1216,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "500,00",
+                    "box": [
+                        1142,
+                        907,
+                        1216,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 4
+        },
+        {
+            "id": 41,
+            "text": "115,00",
+            "box": [
+                1301,
+                907,
+                1373,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "115,00",
+                    "box": [
+                        1301,
+                        907,
+                        1373,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 5
+        },
+        {
+            "id": 42,
+            "text": "615,00",
+            "box": [
+                1457,
+                907,
+                1531,
+                935
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "615,00",
+                    "box": [
+                        1457,
+                        907,
+                        1531,
+                        935
+                    ]
+                }
+            ],
+            "line_index": 13,
+            "word_index": 6
+        },
+        {
+            "id": 43,
+            "text": "Według stawek VAT:",
+            "box": [
+                982,
+                987,
+                1188,
+                1015
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Według",
+                    "box": [
+                        982,
+                        987,
+                        1059,
+                        1015
+                    ]
+                },
+                {
+                    "text": "stawek",
+                    "box": [
+                        1059,
+                        987,
+                        1136,
+                        1015
+                    ]
+                },
+                {
+                    "text": "VAT",
+                    "box": [
+                        1136,
+                        987,
+                        1175,
+                        1015
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        1175,
+                        987,
+                        1188,
+                        1015
+                    ]
+                }
+            ],
+            "line_index": 14,
+            "word_index": 0
+        },
+        {
+            "id": 44,
+            "text": "23%",
+            "box": [
+                1008,
+                1042,
+                1059,
+                1070
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "23%",
+                    "box": [
+                        1008,
+                        1042,
+                        1059,
+                        1070
+                    ]
+                }
+            ],
+            "line_index": 15,
+            "word_index": 0
+        },
+        {
+            "id": 46,
+            "text": "500,00",
+            "box": [
+                1142,
+                1042,
+                1216,
+                1070
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "500,00",
+                    "box": [
+                        1142,
+                        1042,
+                        1216,
+                        1070
+                    ]
+                }
+            ],
+            "line_index": 15,
+            "word_index": 1
+        },
+        {
+            "id": 48,
+            "text": "115,00",
+            "box": [
+                1301,
+                1042,
+                1373,
+                1070
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "115,00",
+                    "box": [
+                        1301,
+                        1042,
+                        1373,
+                        1070
+                    ]
+                }
+            ],
+            "line_index": 15,
+            "word_index": 2
+        },
+        {
+            "id": 50,
+            "text": "615,00",
+            "box": [
+                1457,
+                1042,
+                1531,
+                1070
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "615,00",
+                    "box": [
+                        1457,
+                        1042,
+                        1531,
+                        1070
+                    ]
+                }
+            ],
+            "line_index": 15,
+            "word_index": 3
+        },
+        {
+            "id": 45,
+            "text": "Razem",
+            "box": [
+                982,
+                1069,
+                1058,
+                1097
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Razem",
+                    "box": [
+                        982,
+                        1069,
+                        1058,
+                        1097
+                    ]
+                }
+            ],
+            "line_index": 16,
+            "word_index": 0
+        },
+        {
+            "id": 47,
+            "text": "500,00",
+            "box": [
+                1142,
+                1070,
+                1216,
+                1098
+            ],
+            "label": "TOTAL_WITHOUT_TAX",
+            "words": [
+                {
+                    "text": "500,00",
+                    "box": [
+                        1142,
+                        1070,
+                        1216,
+                        1098
+                    ]
+                }
+            ],
+            "line_index": 16,
+            "word_index": 1
+        },
+        {
+            "id": 49,
+            "text": "115,00",
+            "box": [
+                1301,
+                1070,
+                1373,
+                1098
+            ],
+            "label": "TOTAL_TAX",
+            "words": [
+                {
+                    "text": "115,00",
+                    "box": [
+                        1301,
+                        1070,
+                        1373,
+                        1098
+                    ]
+                }
+            ],
+            "line_index": 16,
+            "word_index": 2
+        },
+        {
+            "id": 51,
+            "text": "615,00",
+            "box": [
+                1457,
+                1070,
+                1531,
+                1098
+            ],
+            "label": "TOTAL_WITH_TAX",
+            "words": [
+                {
+                    "text": "615,00",
+                    "box": [
+                        1457,
+                        1070,
+                        1531,
+                        1098
+                    ]
+                }
+            ],
+            "line_index": 16,
+            "word_index": 3
+        },
+        {
+            "id": 52,
+            "text": "Do zapłaty:",
+            "box": [
+                115,
+                1180,
+                304,
+                1220
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Do",
+                    "box": [
+                        115,
+                        1180,
+                        153,
+                        1220
+                    ]
+                },
+                {
+                    "text": "zapłaty",
+                    "box": [
+                        153,
+                        1180,
+                        285,
+                        1220
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        285,
+                        1180,
+                        304,
+                        1220
+                    ]
+                }
+            ],
+            "line_index": 17,
+            "word_index": 0
+        },
+        {
+            "id": 53,
+            "text": "553,50",
+            "box": [
+                304,
+                1180,
+                399,
+                1220
+            ],
+            "label": "TOTAL_PAY",
+            "words": [
+                {
+                    "text": "553,50",
+                    "box": [
+                        304,
+                        1180,
+                        399,
+                        1220
+                    ]
+                }
+            ],
+            "line_index": 17,
+            "word_index": 1
+        },
+        {
+            "id": 54,
+            "text": "zł",
+            "box": [
+                399,
+                1180,
+                446,
+                1220
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "zł",
+                    "box": [
+                        399,
+                        1180,
+                        446,
+                        1220
+                    ]
+                }
+            ],
+            "line_index": 17,
+            "word_index": 2
+        },
+        {
+            "id": 55,
+            "text": "Słownie: pięćset pięćdziesiąt trzy zł pięćdziesiąt gr",
+            "box": [
+                115,
+                1219,
+                626,
+                1247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Słownie",
+                    "box": [
+                        115,
+                        1219,
+                        191,
+                        1247
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        191,
+                        1219,
+                        202,
+                        1247
+                    ]
+                },
+                {
+                    "text": "pięćset",
+                    "box": [
+                        202,
+                        1219,
+                        278,
+                        1247
+                    ]
+                },
+                {
+                    "text": "pięćdziesiąt",
+                    "box": [
+                        278,
+                        1219,
+                        409,
+                        1247
+                    ]
+                },
+                {
+                    "text": "trzy",
+                    "box": [
+                        409,
+                        1219,
+                        452,
+                        1247
+                    ]
+                },
+                {
+                    "text": "zł",
+                    "box": [
+                        452,
+                        1219,
+                        474,
+                        1247
+                    ]
+                },
+                {
+                    "text": "pięćdziesiąt",
+                    "box": [
+                        474,
+                        1219,
+                        604,
+                        1247
+                    ]
+                },
+                {
+                    "text": "gr",
+                    "box": [
+                        604,
+                        1219,
+                        626,
+                        1247
+                    ]
+                }
+            ],
+            "line_index": 18,
+            "word_index": 0
+        },
+        {
+            "id": 56,
+            "text": "Zapłacono: 0,00 zł",
+            "box": [
+                115,
+                1249,
+                408,
+                1288
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Zapłacono",
+                    "box": [
+                        115,
+                        1249,
+                        280,
+                        1288
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        280,
+                        1249,
+                        298,
+                        1288
+                    ]
+                },
+                {
+                    "text": "0,00",
+                    "box": [
+                        298,
+                        1249,
+                        371,
+                        1288
+                    ]
+                },
+                {
+                    "text": "zł",
+                    "box": [
+                        371,
+                        1249,
+                        408,
+                        1288
+                    ]
+                }
+            ],
+            "line_index": 19,
+            "word_index": 0
+        },
+        {
+            "id": 57,
+            "text": "Pozostało: 615,00 zł",
+            "box": [
+                115,
+                1290,
+                436,
+                1329
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Pozostało",
+                    "box": [
+                        115,
+                        1290,
+                        276,
+                        1329
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        276,
+                        1290,
+                        293,
+                        1329
+                    ]
+                },
+                {
+                    "text": "615,00",
+                    "box": [
+                        293,
+                        1290,
+                        400,
+                        1329
+                    ]
+                },
+                {
+                    "text": "zł",
+                    "box": [
+                        400,
+                        1290,
+                        436,
+                        1329
+                    ]
+                }
+            ],
+            "line_index": 20,
+            "word_index": 0
+        },
+        {
+            "id": 58,
+            "text": "Imię i nazwisko osoby upoważnionej do",
+            "box": [
+                118,
+                1547,
+                512,
+                1575
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Imię",
+                    "box": [
+                        118,
+                        1547,
+                        167,
+                        1575
+                    ]
+                },
+                {
+                    "text": "i",
+                    "box": [
+                        167,
+                        1547,
+                        180,
+                        1575
+                    ]
+                },
+                {
+                    "text": "nazwisko",
+                    "box": [
+                        180,
+                        1547,
+                        278,
+                        1575
+                    ]
+                },
+                {
+                    "text": "osoby",
+                    "box": [
+                        278,
+                        1547,
+                        340,
+                        1575
+                    ]
+                },
+                {
+                    "text": "upoważnionej",
+                    "box": [
+                        340,
+                        1547,
+                        487,
+                        1575
+                    ]
+                },
+                {
+                    "text": "do",
+                    "box": [
+                        487,
+                        1547,
+                        512,
+                        1575
+                    ]
+                }
+            ],
+            "line_index": 21,
+            "word_index": 0
+        },
+        {
+            "id": 60,
+            "text": "Imię i nazwisko osoby upoważnionej do",
+            "box": [
+                886,
+                1547,
+                1281,
+                1575
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Imię",
+                    "box": [
+                        886,
+                        1547,
+                        935,
+                        1575
+                    ]
+                },
+                {
+                    "text": "i",
+                    "box": [
+                        935,
+                        1547,
+                        948,
+                        1575
+                    ]
+                },
+                {
+                    "text": "nazwisko",
+                    "box": [
+                        948,
+                        1547,
+                        1046,
+                        1575
+                    ]
+                },
+                {
+                    "text": "osoby",
+                    "box": [
+                        1046,
+                        1547,
+                        1108,
+                        1575
+                    ]
+                },
+                {
+                    "text": "upoważnionej",
+                    "box": [
+                        1108,
+                        1547,
+                        1256,
+                        1575
+                    ]
+                },
+                {
+                    "text": "do",
+                    "box": [
+                        1256,
+                        1547,
+                        1281,
+                        1575
+                    ]
+                }
+            ],
+            "line_index": 21,
+            "word_index": 1
+        },
+        {
+            "id": 59,
+            "text": "wystawiania faktury:",
+            "box": [
+                213,
+                1572,
+                417,
+                1600
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "wystawiania",
+                    "box": [
+                        213,
+                        1572,
+                        331,
+                        1600
+                    ]
+                },
+                {
+                    "text": "faktury",
+                    "box": [
+                        331,
+                        1572,
+                        406,
+                        1600
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        406,
+                        1572,
+                        417,
+                        1600
+                    ]
+                }
+            ],
+            "line_index": 22,
+            "word_index": 0
+        },
+        {
+            "id": 61,
+            "text": "otrzymania faktury:",
+            "box": [
+                987,
+                1572,
+                1180,
+                1600
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "otrzymania",
+                    "box": [
+                        987,
+                        1572,
+                        1094,
+                        1600
+                    ]
+                },
+                {
+                    "text": "faktury",
+                    "box": [
+                        1094,
+                        1572,
+                        1169,
+                        1600
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        1169,
+                        1572,
+                        1180,
+                        1600
+                    ]
+                }
+            ],
+            "line_index": 22,
+            "word_index": 1
+        },
+        {
+            "id": 62,
+            "text": "Strona nr 1 z 1",
+            "box": [
+                751,
+                2121,
+                903,
+                2149
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Strona",
+                    "box": [
+                        751,
+                        2121,
+                        834,
+                        2149
+                    ]
+                },
+                {
+                    "text": "nr",
+                    "box": [
+                        834,
+                        2121,
+                        862,
+                        2149
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        862,
+                        2121,
+                        875,
+                        2149
+                    ]
+                },
+                {
+                    "text": "z",
+                    "box": [
+                        875,
+                        2121,
+                        889,
+                        2149
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        889,
+                        2121,
+                        903,
+                        2149
+                    ]
+                }
+            ],
+            "line_index": 23,
+            "word_index": 0
+        },
+        {
+            "id": 63,
+            "text": "OEM: KSSOFT - Fakturowanie",
+            "box": [
+                672,
+                2148,
+                982,
+                2176
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "OEM",
+                    "box": [
+                        672,
+                        2148,
+                        712,
+                        2176
+                    ]
+                },
+                {
+                    "text": ":",
+                    "box": [
+                        712,
+                        2148,
+                        726,
+                        2176
+                    ]
+                },
+                {
+                    "text": "KSSOFT",
+                    "box": [
+                        726,
+                        2148,
+                        807,
+                        2176
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        807,
+                        2148,
+                        820,
+                        2176
+                    ]
+                },
+                {
+                    "text": "Fakturowanie",
+                    "box": [
+                        820,
+                        2148,
+                        982,
+                        2176
+                    ]
+                }
+            ],
+            "line_index": 24,
+            "word_index": 0
+        }
+    ]
+}
